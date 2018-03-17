@@ -13,7 +13,7 @@ MAC OS X
 
 ## Install
 ```
-clone
+git clone https://github.com/nestoru/procurve-commander.git
 cd procurve-commander
 chmod +x procurve-commander.sh
 ```
