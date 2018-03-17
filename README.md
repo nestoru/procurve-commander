@@ -26,5 +26,5 @@ export SWITCH_PASSWORD=agoodsecret
 ./procurve-commander.sh UserName SwitchDomainOrIP "show snmpv3 user"
 
 ## show ssh config status. Note that an exit is required because config command adds a sub-prompt
-./procurve-commander.sh PTSAdmin 172.20.0.20 "config, show ip ssh, exit"
+./procurve-commander.sh UserName SwitchDomainOrIP "config, show ip ssh, exit"
 ```
